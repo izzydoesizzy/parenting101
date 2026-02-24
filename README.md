@@ -1,151 +1,53 @@
-# parenting101
+# Parenting 101
 
+> Comprehensive new parent guide covering pregnancy prep, birth planning, postpartum recovery, newborn care, and development milestones
 
-# Baby Kit for New Parents
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-A comprehensive guide for new parents to navigate the exciting (and sometimes overwhelming) first year with their baby. This kit includes essential resources, tips, and templates to make parenting a little easier.
+## Overview
 
----
+Parenting 101 is a thorough, practical guide for new parents navigating the exciting (and sometimes overwhelming) first year with their baby. It covers everything from pregnancy preparation and birth planning through postpartum recovery, newborn care basics, feeding schedules, and diapering -- all presented in a clear, accessible format with actionable tips, recommended apps, and real cost breakdowns.
 
-## Table of Contents
+## Contents
 
-1. [Pregnancy Prep and Birth Plan](#pregnancy-prep-and-birth-plan)
-   - [Birth Plan Overview](#birth-plan-overview)
-   - [Preparing for Postpartum Recovery](#preparing-for-postpartum-recovery)
-   - [Health Concerns During Pregnancy](#health-concerns-during-pregnancy)
-   - [Supplements](#supplements)
-2. [The First Few Weeks with Baby](#the-first-few-weeks-with-baby)
-   - [What’s Normal for Newborns?](#whats-normal-for-newborns)
-   - [Sample Schedules](#sample-schedules)
-   - [Diapering Basics](#diapering-basics)
-   - [Feeding Essentials](#feeding-essentials)
-3. [Interactive Templates (Coming Soon)](#interactive-templates-coming-soon)
+### Pregnancy Prep and Birth Plan
+- **Birth Plan Overview** -- delivery preferences, support people, environment, baby's first hours
+- **Preparing for Postpartum Recovery** -- vaginal delivery care (sitz baths, peri bottle) and C-section recovery (abdominal binder, infection signs)
+- **Health Concerns During Pregnancy** -- preeclampsia symptoms, shoulder dystocia, Braxton Hicks contractions
+- **Supplements** -- iron recommendations (Floradix, Slow FE), lactation herbs (moringa, fenugreek, blessed thistle)
 
----
+### The First Few Weeks with Baby
+- **What's Normal for Newborns** -- sleep patterns (16-18 hours/day), feeding frequency, diaper output expectations
+- **Sample Schedules** -- breastfeeding schedule (every 2-3 hours) and nap schedule templates
+- **Diapering Basics** -- Huggies size chart (newborn through size 2), quantity estimates (10-12/day for newborns), cost breakdown (~$70/month for diapers + wipes)
+- **Feeding Essentials** -- cluster feeding timing, latching tips, Haakaa collection trick, formula preparation guidelines
 
-## Pregnancy Prep and Birth Plan
+### Interactive Templates (Coming Soon)
+- Feeding and diapering tracker templates
+- QR codes to recommended apps and resources
+- Hospital bag checklist
+- Baby gear shopping checklist
 
-### Birth Plan Overview
-Your birth plan is a guide to help communicate your preferences during labor and delivery. Here's what to include:
-- **Delivery Preferences**: Vaginal or cesarean, preferences for pain relief (e.g., epidural, natural techniques).
-- **Support People**: Who you want in the room (partner, doula, etc.).
-- **Environment**: Lighting, music, and other comfort measures.
-- **Baby's First Hours**: Immediate skin-to-skin contact, delayed cord clamping, breastfeeding initiation.
+## Recommended Apps and Resources
 
-**Apps and Resources:**
 - [The Bump Birth Plan Tool](https://www.thebump.com/tools/birth-plan)
 - [What to Expect App](https://www.whattoexpect.com/apps/)
 - [Evidence-Based Birth](https://evidencebasedbirth.com/)
 
----
+## How to Use
 
-### Preparing for Postpartum Recovery
+This guide is written entirely in Markdown and can be read directly on GitHub, or cloned and viewed with any Markdown reader:
 
-#### Vaginal Delivery:
-- Perineal care: Use warm sitz baths and apply cooling witch hazel pads.
-- Stool softeners and hydration to ease bowel movements.
-- Use a peri bottle for gentle cleansing.
+```bash
+git clone git@github.com:izzydoesizzy/parenting101.git
+cd parenting101
+```
 
-#### C-Section:
-- Rest is crucial—avoid heavy lifting for at least 6 weeks.
-- Use a supportive abdominal binder for comfort.
-- Watch for infection signs (redness, warmth, or discharge at the incision).
+Open `README.md` in any Markdown viewer, or browse directly on GitHub.
 
 ---
 
-### Health Concerns During Pregnancy
-**Preeclampsia**:
-- Symptoms: High blood pressure, swelling in hands/face, protein in urine.
-- Prevention: Regular prenatal checkups and staying hydrated.
-
-**Common Fears**:
-- *Shoulder Dystocia*: Rare but manageable by healthcare professionals. Be aware, but trust your team.
-- *Big Baby*: Discuss options with your doctor; many big babies are delivered without complications.
-- *Braxton Hicks*: These "practice contractions" are normal. Stay hydrated and change positions to ease discomfort.
-
----
-
-### Supplements
-- **Iron**: Helps combat postpartum anemia. Pair with vitamin C for better absorption.
-  - Recommendation: *Floradix Iron Supplement* or *Slow FE*.
-- **Lactation Herbs**: Moringa, fenugreek, and blessed thistle can support milk production. Always consult your doctor.
-
----
-
-## The First Few Weeks with Baby
-
-### What’s Normal for Newborns?
-**Sleep**:
-- Expect 16-18 hours of sleep daily, but in short bursts of 2-3 hours.
-- Baby’s sleep cycle will gradually lengthen after 6-8 weeks.
-
-**Feeding**:
-- Breastfed babies eat every 2-3 hours; formula-fed every 3-4 hours.
-- Look for hunger cues: rooting, sucking motions, or hands to mouth.
-
-**Diapering**:
-- Wet diapers: 6-8 per day by the end of week one.
-- Poop: First poops are sticky and black (meconium). By day 5, expect yellow, seedy poop if breastfeeding.
-
----
-
-### Sample Schedules
-
-#### Breastfeeding Schedule (Newborn):
-- 7:00 AM: Wake and feed.
-- 9:00 AM: Feed after nap.
-- 11:00 AM: Feed after tummy time.
-- 1:00 PM: Feed before nap.
-- Repeat every 2-3 hours.
-
-#### Nap Schedule (Newborn):
-- 9:00 AM: Morning nap (30-45 minutes).
-- 12:00 PM: Midday nap.
-- 4:00 PM: Afternoon nap.
-- 6:00 PM: Short evening nap.
-
----
-
-### Diapering Basics
-
-**Huggies Diaper Size Chart**:
-- **Newborn**: Up to 10 lbs (4-5 weeks).
-- **Size 1**: 8-14 lbs (1-3 months).
-- **Size 2**: 12-18 lbs (3-6 months).
-
-**How Many You’ll Need**:
-- **Newborns**: 10-12 diapers/day (~300 diapers/month).
-- **0-6 Months**: 8-10 diapers/day (~250 diapers/month).
-
-**Cost of Diapers & Wipes**:
-- Diapers: ~$0.20 each = $60/month.
-- Wipes: ~$0.02 per wipe, using 3 per change = ~$10/month.
-
----
-
-### Feeding Essentials
-
-**What’s Normal for Breastfeeding**:
-- Cluster feeding during growth spurts (common at 2 weeks, 6 weeks, 3 months).
-- Baby should latch onto the areola, not just the nipple.
-- It’s normal for your baby to nurse for 10-45 minutes per session.
-
-**Breastfeeding Tip**:
-Use a Haakaa on one breast while nursing on the other to collect milk leakage.
-
-**Formula Tips**:
-- Prepare bottles fresh; discard unused formula after 1 hour.
-- Use boiled, cooled water to mix.
-
----
-
-### Pro Tip
-Wipe most of the poop using the clean front of the diaper before using wipes. This will save you time and wipes!
-
----
-
-## Interactive Templates (Coming Soon)
-- Feeding and diapering tracker templates.
-- QR codes to recommended apps and resources.
-- Hospital bag checklist.
-- Baby gear shopping checklist.
+**Tags:** `documentation` `fun-project`
+**Created:** December 2024
+**Status:** Functional
+**Author:** [Izzy Piyale-Sheard](https://github.com/izzydoesizzy) -- [@izzydoesizzy](https://twitter.com/izzydoesizzy)
